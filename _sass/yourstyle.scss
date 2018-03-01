@@ -1,0 +1,26 @@
+/*============================================================== 
+ You can write your style here and overwrite our style
+ ============================================================== */
+
+
+
+
+#team {
+    .member-box {
+        
+        .team-image {
+            margin-bottom: 0.5em;
+            border: 5px solid #fff;
+        }
+        
+        h6 {
+            font-weight: bold;
+        }
+        span {
+            color: #eee !important;
+        }
+    }
+}
+.p40 {
+    padding: 40px;
+}
