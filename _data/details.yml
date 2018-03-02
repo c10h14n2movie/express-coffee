@@ -29,19 +29,19 @@ page-headers:
         
     products:
        - title: Our Products
-         details: You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time.
+         details: You can rely on our amazing products and also our customer services will be great experience for you without doubt and in no-time.
     
     services: 
-       - title: Services you can Relay Upon
-         details: You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time.
+       - title: You can Rely Upon Express Coffee
+         details: Our customer service is focused on providing the best support & service to our customers. Reach out to us for any issues, complaints or suggestions.
          clients: 5000
          coffee: 30000
          staff: 3
          awards: 1
     
     testimonials:
-       - title: What Our Customers Say
-         details: We care what our customers think of us and so should you. We are partners in your business and your success is ours in your business.
+       - title: What Our Customers Say?
+         details: 'Our customers have liked our coffee. Did you? <br>Here is what our amazing customers have to say about Express Coffee.'
           
     team:
        - title: Our Dedicated Team
@@ -121,17 +121,17 @@ testimonials:
 
     - title: John Doe
       position: Founder at xyz company
-      details: Exoress Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
+      details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
       image: 1.jpg
       
     - title: John Doe
       position: Founder at xyz company
-      details: Exoress Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
+      details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
       image: 2.jpg
       
     - title: John Doe
       position: Founder at xyz company
-      details: Exoress Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
+      details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
       image: 3.jpg
       
 team:
