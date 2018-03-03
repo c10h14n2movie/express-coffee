@@ -64,11 +64,11 @@ page-headers:
 slider:
     - title: Royal Roast
       details: 100% Pure Ground Coffee for Tasty, Rich & Strong Coffee Lovers. Coffee should be black as hell, strong as death and sweet as love!
-      image: Royal-500g.jpg
+      image: Royal-500g-5.jpg
     
     - title: Ujwal
       details: Rich Blend of Coffee & Chicory to Kick off the day with a Perfect Cup of Coffee. What goes best with a cup of Coffee? Another cup!
-      image: ujwal-500g.jpg
+      image: ujwal-500g-2.jpg
       
     - title: Express Classic 
       details: Perfect Blend of Coffee with Chocory for a Tasty Coffee. May your coffee be strong and your Monday be short!
@@ -119,20 +119,35 @@ products:
       
 testimonials:
 
-    - title: John Doe
-      position: Founder at xyz company
+    - title: Pruthviraj Kowri
+      position: Wwner, Kowri Estate Koppa
       details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
-      image: 1.jpg
+      image: Pruthviraj-Kowri.jpg
       
-    - title: John Doe
-      position: Founder at xyz company
-      details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
-      image: 2.jpg
+    - title: Pallavi Gowda
+      position: Executive Operations, Axis Bank
+      details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee! Express Coffee has some of the best coffees to offer.
+      image: Pallavi-Gowda.jpg
       
-    - title: John Doe
-      position: Founder at xyz company
+    - title: Geetha Thimmaiah
+      position: Housewife
       details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
-      image: 3.jpg
+      image: Geetha-Thimmaiah.jpg
+      
+    - title: Rajesh Gowda
+      position: Technology Manager, Hyderabad
+      details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
+      image: Rajesh-Gowda.jpg
+      
+    - title: Roopa Hegde
+      position: IT Project Manager, Hyderabad 
+      details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
+      image: Roopa-Hegde.jpg
+      
+    - title: Rajani Prathap
+      position: Co-owner, Gajanana Coffee Estate, Bankenahalli
+      details: Express Coffee has some of the best coffees to offer. I particularly liked the Royal Roast which is pure coffee that makes a pretty strong coffee. I would recommend everyone to try this amazing coffee!
+      image: Rajani-Prathap.jpg
       
 team:
     
