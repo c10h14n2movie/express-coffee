@@ -7,6 +7,8 @@
 
 #team {
     .member-box {
+            
+        margin-bottom: 25px;
         
         .team-image {
             margin-bottom: 0.5em;
@@ -23,6 +25,9 @@
 }
 .p40 {
     padding: 40px;
+    @include media-query($on-palm) {
+        padding: 10px;
+    }
 }
 
 .plus:after {
