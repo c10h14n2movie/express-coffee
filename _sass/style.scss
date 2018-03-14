@@ -2859,7 +2859,11 @@ File: scss
         height: 350px;
     }
     }
-.copy {
+.copy {    
+    margin-top: 0;
+    .text-right {
+        margin-top: 0;
+    }
     @include media-query($on-palm) {
         margin-top: 1em;
         text-align: center !important;
