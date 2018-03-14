@@ -2860,5 +2860,13 @@ File: scss
     }
     }
 .copy {
+    @include media-query($on-palm) {
+        margin-top: 1em;
+        text-align: center !important;
+        .text-right {
+            margin-top: 1em;
+            text-align: center !important;
+        }
+    }
     
 }
