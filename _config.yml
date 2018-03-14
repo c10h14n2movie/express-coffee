@@ -5,6 +5,7 @@ enforce_ssl: expresscoffeeindia.com
 logo: /images/logox500.png
 lang: en_IN
 
+analytics: UA-115749700-1
 
 facebook:
  app_id: 
