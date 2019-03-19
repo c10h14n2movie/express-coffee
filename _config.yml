@@ -8,12 +8,13 @@ lang: en_IN
 # shop: https://shop.expresscoffeeindia.com/
 shop: '#'
 
+
 analytics: UA-115749700-1
 
 facebook:
- app_id: 
- publisher: 
- admins: 
+ app_id:
+ publisher:
+ admins:
 
 
 google_site_verification:
@@ -32,7 +33,7 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-  
+
 sass:
     style: compressed
 
